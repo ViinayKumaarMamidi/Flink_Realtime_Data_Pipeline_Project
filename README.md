@@ -1,21 +1,7 @@
 # Flink_Realtime_Data_Pipeline_Project
 This Repo contains details about Flink Real Time processing pipeline with Redpanda, Flink and Postgres Database Table
 
-# Copilot Chat Conversation Export: Comprehensive README for Flink project
-
-**User:** @ViinayKumaarMamidi
-**Thread URL:** https://github.com/copilot/c/2a230d7c-e447-4d3f-b24d-23a6b8acd3a3
-
-## @ViinayKumaarMamidi
-
-Can you generate step by step read me guide
-
-## Copilot
-
-I'll help you generate a step-by-step README guide for your Flink Real-time Data Pipeline Project. Let me first examine the repository structure and contents to create a comprehensive guide.Let me explore the repository structure to understand what files are present:Now let me get the key files to understand the project structure:Now I'll create a comprehensive step-by-step README guide for your Flink Real-time Data Pipeline Project:Based on your repository structure, here's a comprehensive step-by-step README guide I've generated for your Flink Real-time Data Pipeline Project:
-
-```markdown name=README.md
-# Flink Real-time Data Pipeline Project
+**Data Flow Details**
 
 A comprehensive real-time data processing pipeline built with Apache Flink, Redpanda (Kafka-compatible), and PostgreSQL. This project demonstrates streaming data ingestion, real-time processing, aggregation, and persistent storage.
 
@@ -427,15 +413,6 @@ After completing the setup:
 - **Test late events**: The producer generates 20% late events by design; this tests your watermarking
 - **Use Jupyter notebooks**: Great for exploratory data analysis before building jobs
 - **Review logs frequently**: Docker logs reveal most issues before they become problems
-
----
-
-## 📞 Support
-
-For issues, questions, or contributions:
-- Open an issue on GitHub
-- Check existing issues and discussions
-- Review Docker/Flink logs for error messages
 
 ---
 
