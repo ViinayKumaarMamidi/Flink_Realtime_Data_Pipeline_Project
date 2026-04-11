@@ -1,5 +1,5 @@
 # Flink_Realtime_Data_Pipeline_Project
-This Repo contains details about Flink Real Time processing pipeline with Redpanda, Flink and Postgres Database Table, Implementation process has been followed from Data Talks Club Team. Thanks a lot for the resource and code walk-through
+This Repo contains details about Flink Real Time processing pipeline with Redpanda, Flink and Postgres Database Tables
 
 **Data Flow Details**
 
