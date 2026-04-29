@@ -1,6 +1,11 @@
 # Flink_Realtime_Data_Pipeline_Project
 This Repo contains details about Flink Real Time processing pipeline with Redpanda, Flink and Postgres Database Tables
 
+## Project Implementation Detailed Documentation
+
+https://deepwiki.com/ViinayKumaarMamidi/Flink_Realtime_Data_Pipeline_Project
+
+
 **Data Flow Details**
 
 A comprehensive real-time data processing pipeline built with Apache Flink, Redpanda (Kafka-compatible), and PostgreSQL. This project demonstrates streaming data ingestion, real-time processing, aggregation, and persistent storage.
